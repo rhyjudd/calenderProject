@@ -1,0 +1,30 @@
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Calender project.csprojAssemblyReference.cache
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Calender project.csproj.CoreCompileInputs.cache
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Calender project.RazorAssemblyInfo.cache
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Calender project.RazorAssemblyInfo.cs
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Calender project.AssemblyInfoInputs.cache
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Calender project.AssemblyInfo.cs
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Calender project.TagHelpers.input.cache
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Calender project.TagHelpers.output.cache
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Calender project.RazorCoreGenerate.cache
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Calender project.RazorTargetAssemblyInfo.cache
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Calender project.RazorTargetAssemblyInfo.cs
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Calender project.dll
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Calender project.pdb
+F:\repos\Calender project\bin\Debug\netcoreapp2.2\Calender project.deps.json
+F:\repos\Calender project\bin\Debug\netcoreapp2.2\Calender project.runtimeconfig.json
+F:\repos\Calender project\bin\Debug\netcoreapp2.2\Calender project.runtimeconfig.dev.json
+F:\repos\Calender project\bin\Debug\netcoreapp2.2\Calender project.dll
+F:\repos\Calender project\bin\Debug\netcoreapp2.2\Calender project.pdb
+F:\repos\Calender project\bin\Debug\netcoreapp2.2\Calender project.Views.dll
+F:\repos\Calender project\bin\Debug\netcoreapp2.2\Calender project.Views.pdb
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Calender project.Views.pdb
+F:\repos\Calender project\obj\Debug\netcoreapp2.2\Calender project.csproj.CopyComplete
